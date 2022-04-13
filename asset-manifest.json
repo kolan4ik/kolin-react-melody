@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kolin-react-melody/static/css/main.43c86f1c.css",
+    "main.js": "/kolin-react-melody/static/js/main.8607de1a.js",
+    "index.html": "/kolin-react-melody/index.html",
+    "main.43c86f1c.css.map": "/kolin-react-melody/static/css/main.43c86f1c.css.map",
+    "main.8607de1a.js.map": "/kolin-react-melody/static/js/main.8607de1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43c86f1c.css",
+    "static/js/main.8607de1a.js"
+  ]
+}
